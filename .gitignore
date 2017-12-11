@@ -1,0 +1,7 @@
+/Rubbish/*
+LIBRO*.pdf
+/Imagenes/*
+/Proyecto final/*
+!/Proyecto final/*.cpp
+!/Proyecto final/*.pdf
+/TUCO/*
